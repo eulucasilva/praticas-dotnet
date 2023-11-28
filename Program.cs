@@ -164,7 +164,7 @@ class Program
         Console.Write("1. Lista de produtos com quantidade em estoque abaixo de: ");
         int limiteQuantidade = int.Parse(Console.ReadLine());
 
-        var produtosAbaixoLimite = estoque.Where(p => p.QuantidadeEmEstoque < limiteQuantidade);
+        var produtosAbaixoLimite = estoque.Where(p => p.QuantidadeEmEstoque < limiteQuantidade).ToList();
         ImprimirRelatorio("Produtos abaixo do limite de estoque", produtosAbaixoLimite);
 
         Console.Write("2. Lista de produtos com valor entre mínimo: ");
