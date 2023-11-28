@@ -1,0 +1,14 @@
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\bin\Debug\net7.0\NET-P003.exe
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\bin\Debug\net7.0\NET-P003.deps.json
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\bin\Debug\net7.0\NET-P003.runtimeconfig.json
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\bin\Debug\net7.0\NET-P003.dll
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\bin\Debug\net7.0\NET-P003.pdb
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\NET-P003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\NET-P003.AssemblyInfoInputs.cache
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\NET-P003.AssemblyInfo.cs
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\NET-P003.csproj.CoreCompileInputs.cache
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\NET-P003.dll
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\refint\NET-P003.dll
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\NET-P003.pdb
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\NET-P003.genruntimeconfig.cache
+C:\Users\Alan\OneDrive\Documents\ProjetosResidencia\Dotnet\NET-P003\obj\Debug\net7.0\ref\NET-P003.dll
